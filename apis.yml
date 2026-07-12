@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/itunes-search-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/itunes-search-domain-security.yml
   - type: Website
     url: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
   - type: PublicAPIsListing
