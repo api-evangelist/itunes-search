@@ -39,7 +39,6 @@ apis:
   - name: iTunes Search
     description: "Software products"
     humanURL: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-    baseURL: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
     tags:
       - Music
     properties:
